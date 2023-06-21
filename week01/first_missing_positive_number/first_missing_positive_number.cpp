@@ -1,5 +1,5 @@
 /*
-Explanation of this problem added to other txt file
+Explanation of this problem has added to other txt file
 */
 
 
